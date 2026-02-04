@@ -1,4 +1,4 @@
-Materi Training IT Security ke-1 di brimob
+Silabus & Materi Training IT Security ke-1 di brimob
 
 Ditulis oleh : Antonius (wisdom)
 
@@ -58,6 +58,8 @@ PART 9. TEKNIK HACKING LANJUTAN
 3. Hacking dengan memanfaatkan search engine
 4. Contoh Peretasan Pada Jaringan Perusahaan / Institusi (The Lateral Movements)
 5. Cara Hack Whatsapp dengan SIM Card Swapping dan SIM Card Recycling
+
+   keterangan : seluruh materi di atas adalah materi training it security ke-1 yang diberikan untuk brimob Indonesia
 
 Keterangan : 
 - Dengan menguasai seluruh materi training ke-1 ini maka peserta akan mencapai level hacker : developed kiddies
