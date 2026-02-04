@@ -77,3 +77,4 @@ Tingkatan kasta hacker :
 5. elite
 6. wizard
 
+keterangan tentang tingkatan wizard : Mampu menciptakan teknik hacking yang belum pernah ada di dunia ini, mampu menciptakan revolusi teknologi baru (the creator)
