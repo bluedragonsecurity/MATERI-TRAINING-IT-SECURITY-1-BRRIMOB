@@ -22,7 +22,8 @@ PART 2. Teknik Penyerangan pada Website
     
 PART 3. Teknik Penyerangan pada Smartphone Android
 1. Backdoor Android dengan Metasploit
-2. Aplikasi Pencuri Data di Android3. Bom Telpon
+2. Aplikasi Pencuri Data di Android
+3. Bom Telpon
    
 PART 4. Teknik Penyerangan pada Jaringan LAN
 1. DHCP Exhaustion Attack & Rogue DHCP Server
