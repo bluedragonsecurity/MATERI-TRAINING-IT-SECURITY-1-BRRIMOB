@@ -35,7 +35,7 @@ PART 5. Teknik Penyerangan pada Servis
 1. Mengenal serangan pada servis
 2. Brute Force Attack (ssh, ftp, telnet, dll)
 3. DOS & DDOS
-4. 0day Exploit pada Servis
+4. 0day & 1day Exploit pada Servis
    
 PART 6. Serangan Social Engineering
 1. Mengenal social engineering
