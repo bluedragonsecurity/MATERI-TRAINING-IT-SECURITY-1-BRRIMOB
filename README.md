@@ -64,7 +64,7 @@ PART 9. TEKNIK HACKING LANJUTAN
 Keterangan : 
 - Seluruh materi di atas adalah materi training it security ke-1 yang diberikan untuk brimob Indonesia
    
-- Dengan menguasai seluruh materi training ke-1 ini maka peserta akan mencapai level hacker : developed kiddies
+- Dengan menguasai seluruh materi training ke-1 ini maka peserta akan mencapai level hacker : script kiddies menuju developed kiddies
 
 - Dengan menguasai seluruh materi training ke-2 maka peserta ditargetkan untuk mencapai level hacker : semi elite menuju elite
 
