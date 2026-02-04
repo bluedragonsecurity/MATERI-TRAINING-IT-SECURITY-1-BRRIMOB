@@ -8,6 +8,7 @@ PART 1. Pengenalan Kali Linux
 1. Instalasi Kali Linux
 2. Beberapa tool yang sering digunakan pada kali linux
 3. Tahapan penetration testing
+   
 PART 2. Teknik Penyerangan pada Website
 1. Sql Injection
 2. Local File Inclusion (LFI)
@@ -18,37 +19,44 @@ PART 2. Teknik Penyerangan pada Website
 7. Html injection
 8. Scanning web dengan tool
 9. Memahami bind shell dan reverse shell
+    
 PART 3. Teknik Penyerangan pada Smartphone Android
 1. Backdoor Android dengan Metasploit
 2. Aplikasi Pencuri Data di Android3. Bom Telpon
+   
 PART 4. Teknik Penyerangan pada Jaringan LAN
 1. DHCP Exhaustion Attack & Rogue DHCP Server
 2. IP Conflict
 3. Pengenalan Arp
 4. Arp Poisoning
 5. Physical Attack pada Jaringan LAN
+   
 PART 5. Teknik Penyerangan pada Servis
 1. Mengenal serangan pada servis
 2. Brute Force Attack (ssh, ftp, telnet, dll)
 3. DOS & DDOS
 4. 0day Exploit pada Servis
+   
 PART 6. Serangan Social Engineering
 1. Mengenal social engineering
 2. Phising
 3. Social Engineering untuk Hack Whatsapp
+   
 PART 7. Teknik Serangan pada Wifi
 1. Wifi Deauth Attack
 2. Wifi Password Cracking
 3. Wifi Evil Twin4. Kombinasi Wifi Attack dan Physical Attack
+   
 PART 8. TEKNIK INFORMATION GATHERING
 1. Tentang information gathering
 2. Pelacakan data seseorang
 3. Information gathering pada target perusahaan / organisasi
+   
 PART 9. TEKNIK HACKING LANJUTAN
 1. Privilege Escalation di Server Linux
 2. Backdooring dan Covering Track di Server Linux
 3. Hacking dengan memanfaatkan search engine
-4. Contoh Peretasan Pada Jaringan Perusahaan / Institusi
+4. Contoh Peretasan Pada Jaringan Perusahaan / Institusi (The Lateral Movements)
 5. Cara Hack Whatsapp dengan SIM Card Swapping dan SIM Card Recycling
 
 Dengan menguasai seluruh materi training ke-1 ini maka peserta akan mencapai level hacker : developed kiddies
