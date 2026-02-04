@@ -2,6 +2,8 @@ Materi Training IT Security ke-1 di brimob
 
 Ditulis oleh : Antonius (wisdom)
 
+https://bluedragonsec.com
+
 Dengan menguasai seluruh materi training ke-1 ini maka peserta akan mencapai level hacker : developed kiddies
 
 Tingkatan kasta hacker : 
